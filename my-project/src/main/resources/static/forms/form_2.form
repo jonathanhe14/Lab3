@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Solicitud de Monto",
+      "type": "text",
+      "id": "Field_1wxpwc0"
+    },
+    {
+      "label": "Monto",
+      "type": "textfield",
+      "id": "Field_0c8udy6",
+      "key": "monto"
+    }
+  ],
+  "type": "default",
+  "id": "Form_16ili9v"
+}

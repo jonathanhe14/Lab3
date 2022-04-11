@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registro Usuario",
+      "type": "text",
+      "id": "Field_0q5jnkg"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_1txethq",
+      "key": "nombre"
+    },
+    {
+      "label": "Apellido 1",
+      "type": "textfield",
+      "id": "Field_0yypytv",
+      "key": "apellido1"
+    },
+    {
+      "label": "Apellido 2",
+      "type": "textfield",
+      "id": "Field_0mx9imw",
+      "key": "apellido2"
+    },
+    {
+      "values": [
+        {
+          "label": "Empleado Independiente",
+          "value": "independiente"
+        },
+        {
+          "label": "Empleado en Planilla",
+          "value": "planilla"
+        }
+      ],
+      "label": "Tipo de Empleado",
+      "type": "radio",
+      "id": "Field_06ff8cx",
+      "key": "tipo"
+    },
+    {
+      "label": "Inglesos Mensuales",
+      "type": "textfield",
+      "id": "Field_0ry61bi",
+      "key": "ingresos"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1vbm8ez"
+}

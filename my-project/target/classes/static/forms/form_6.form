@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Su credito ha sido rechazado",
+      "type": "text",
+      "id": "Field_1br43dl"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1mrny74"
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# El monto Solicitado exede su capacidad de pago, desea agregar una prenda?",
+      "type": "text",
+      "id": "Field_07rfl2l"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "value": "no",
+          "label": "No"
+        }
+      ],
+      "label": "Agregar Prenda",
+      "type": "radio",
+      "id": "Field_1dj363d",
+      "key": "radioPrenda"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0o0twio"
+}

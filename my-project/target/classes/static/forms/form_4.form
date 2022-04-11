@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Firma de Contrato",
+      "type": "text",
+      "id": "Field_0cnn95y"
+    },
+    {
+      "label": "Monto Aprobado",
+      "type": "textfield",
+      "id": "Field_0gtobez",
+      "key": "montoAprobado",
+      "validate": {
+        "required": false
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_0ew4cw9"
+}

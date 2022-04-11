@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Aporto estados contables auditados?",
+      "type": "text",
+      "id": "Field_0hvczux"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_0qutuns",
+      "key": "estadosContables"
+    }
+  ],
+  "type": "default",
+  "id": "Form_128t98s"
+}
